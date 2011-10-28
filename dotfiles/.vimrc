@@ -1,7 +1,7 @@
 """ Turn on coloring
-syntax on 
+syntax on
 
-""" Desert omits a dark blue so is nice for darkbg 
+""" Desert omits a dark blue so is nice for darkbg
 colorscheme desert
 
 set visualbell
@@ -68,7 +68,7 @@ map ,gdm :!git diff master..<CR>
 
 map ,gb :!git blame %<CR>
 
-""" git-log 
+""" git-log
 map ,gl :!git log %<CR>
 map ,gll :!git log<CR>
 
